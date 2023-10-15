@@ -45,7 +45,7 @@ pre {
 }
 
 a {
-  background-color: transparent;
+  background-color: gold;
   -webkit-text-decoration-skip: objects;
 }
 
@@ -82,8 +82,8 @@ dfn {
 }
 
 mark {
-  background-color: #ff0;
-  color: #000;
+  background-color: gold;
+  color: white;
 }
 
 small {
@@ -175,7 +175,7 @@ fieldset {
 
 legend {
   box-sizing: border-box;
-  color: inherit;
+  color: gold;
   display: table;
   max-width: 100%;
   padding: 0;
